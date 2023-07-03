@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034255290174",
+    "project_id": "mr-health-23991",
+    "storage_bucket": "mr-health-23991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034255290174:android:46979d64fed45e66ee266f",
+        "android_client_info": {
+          "package_name": "com.example.medreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034255290174-n7uafruplac4nuig75qnqfbgvg4imn3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7NqEz_qgfkQfJq-BCWrhm2cm1X_UbJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034255290174-n7uafruplac4nuig75qnqfbgvg4imn3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
